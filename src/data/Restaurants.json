@@ -1,0 +1,84 @@
+{
+  "Restaurants": [
+    {
+      "name": "Cattleack Barbeque",
+      "url": "https://www.cattleackbbq.com/",
+      "address": "13628 Gamma Rd",
+      "city": "Farmers Branch",
+      "state": "TX",
+      "zip": 75244
+    },
+    {
+      "name": "Irene's",
+      "url": "http://irenesaustin.com",
+      "address": "506 W Ave",
+      "city": "Austin",
+      "state": "TX",
+      "zip": 78701
+    },
+    {
+      "name": "Geraldine's",
+      "url": "http://www.geraldinesaustin.com/",
+      "address": "605 Davis St",
+      "city": "Austin",
+      "state": "TX",
+      "zip": 78701
+    },
+    {
+      "name": "The Woolworth",
+      "url": "thewoolworthdallas.com",
+      "address": "1520 Elm St #201",
+      "city": "Dallas",
+      "state": "TX",
+      "zip": 75201
+    },
+    {
+      "name": "Public School 214",
+      "url": "https://www.psontap.com/ps-214",
+      "address": "3700 Mckinney Ave #148",
+      "city": "Dallas",
+      "state": "TX",
+      "zip": 75204
+    },
+    {
+      "name": "Moonshine Grill",
+      "url": "moonshinegrill.com",
+      "address": "303 Red River St",
+      "city": "Austin",
+      "state": "TX",
+      "zip": 78701
+    },
+    {
+      "name": "LENOIR",
+      "url": "https://www.lenoirrestaurant.com",
+      "address": "1807 S 1st",
+      "city": "Austin",
+      "state": "TX",
+      "zip": 78704
+    },
+    {
+      "name": "Paradiso",
+      "url": "https://www.paradisodallas.com",
+      "address": "308 N Bishop Ave",
+      "city": "Dallas",
+      "state": "TX",
+      "zip": 75208
+    },
+    {
+      "name": "Dragonfly",
+      "url": "https://www.hotelzaza.com/dallas/dragonfly",
+      "address": "2332 Leonard St",
+      "city": "Dallas",
+      "state": "TX",
+      "zip": 75201
+    },
+    {
+      "name": "Lutie's",
+      "url": "https://www.luties.com/",
+      "address": "4100 Red River St",
+      "city": "Austin",
+      "state": "TX",
+      "zip": 78751
+    }
+  ]
+}
